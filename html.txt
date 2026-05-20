@@ -24,7 +24,7 @@
                 <p class="text-emerald-200 mt-1 text-sm md:text-base">Using derivatives $f'(x)$ to optimize plantation spacing and maximize light interception efficiency.</p>
             </div>
             <div class="bg-emerald-900/50 p-3 rounded-lg border border-emerald-700 text-xs text-emerald-200 max-w-xs">
-                <strong>Target Audience:</strong> Malaysian Agrotechnology, Food Security, and Agro-Product Undergraduates.
+                <strong>Target Audience:</strong> Malaysian Agrotechnology Undergraduates.
             </div>
         </div>
     </header>
